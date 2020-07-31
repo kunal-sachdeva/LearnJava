@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0e3362a-905b-4191-afba-17ed55e6fa64" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WC23W3EKUIOsx8ylgpk7K9JPkg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.CountVotes">
+    <configuration name="CountVotes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileHandling.CountVotes" />
+      <module name="Test1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FileHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoteControlDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Command.RemoteControlDemo" />
+      <module name="Test1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Command.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamChallenge5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamChallenge5" />
+      <module name="Test1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VotingMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileHandling.VotingMachine" />
+      <module name="Test1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FileHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="printLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.printLL" />
+      <module name="Test1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CountVotes" />
+        <item itemvalue="Application.VotingMachine" />
+        <item itemvalue="Application.StreamChallenge5" />
+        <item itemvalue="Application.RemoteControlDemo" />
+        <item itemvalue="Application.printLL" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0e3362a-905b-4191-afba-17ed55e6fa64" name="Default Changelist" comment="" />
+      <created>1578639056166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578639056166</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="403" y="123" key="#StreamChallenge5" timestamp="1583389860826">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="403" y="123" key="#StreamChallenge5/0.0.1440.900@0.0.1440.900" timestamp="1583389860826" />
+    <state x="466" y="129" key="#com.intellij.ide.util.MemberChooser" timestamp="1580375843497">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="466" y="129" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1580375843497" />
+    <state x="483" y="163" key="#xdebugger.evaluate" timestamp="1583389994915">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="483" y="163" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1583389994915" />
+    <state x="432" y="336" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1581071193387">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="432" y="336" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.900@0.0.1440.900" timestamp="1581071193387" />
+    <state width="1398" height="269" key="GridCell.Tab.0.bottom" timestamp="1588344768756">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="269" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588344768756" />
+    <state width="1398" height="186" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1583389787779" />
+    <state width="1398" height="269" key="GridCell.Tab.0.center" timestamp="1588344768755">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="269" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588344768755" />
+    <state width="1398" height="186" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1583389787777" />
+    <state width="1398" height="269" key="GridCell.Tab.0.left" timestamp="1588344768755">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="269" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588344768755" />
+    <state width="1398" height="186" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1583389787776" />
+    <state width="1398" height="269" key="GridCell.Tab.0.right" timestamp="1588344768756">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="269" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588344768756" />
+    <state width="1398" height="186" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1583389787778" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1587971761151">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587971761151" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1587971761150">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1587971761150" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1587971761149">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1587971761149" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1587971761150">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1587971761150" />
+    <state x="376" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1585824315238">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="376" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1585824315238" />
+    <state x="114" y="23" key="new project wizard" timestamp="1585925054138">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="114" y="23" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1585925054138" />
+    <state x="385" y="112" width="670" height="676" key="search.everywhere.popup" timestamp="1580375886527">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="112" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1580375886527" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StreamChallenge5.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
