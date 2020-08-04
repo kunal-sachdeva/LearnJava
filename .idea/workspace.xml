@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0e3362a-905b-4191-afba-17ed55e6fa64" name="Default Changelist" comment="" />
+    <list default="true" id="e0e3362a-905b-4191-afba-17ed55e6fa64" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Command/ChannelContoller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Command/ChannelContoller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Command/Command.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Command/Command.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Command/LightController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Command/LightController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Command/RemoteControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Command/RemoteControl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Command/RemoteControlDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Command/RemoteControlDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/FileHandling/CountVotes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/FileHandling/CountVotes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/FileHandling/VotingMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/FileHandling/VotingMachine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Generics/GenericClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Generics/GenericClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/LinkedList/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/LinkedList/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/LinkedList/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/LinkedList/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/LinkedList/printLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/LinkedList/printLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Observer/WeatherData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Observer/WeatherData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Serialization/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Serialization/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Serialization/SerializingDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Serialization/SerializingDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Strategy/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Strategy/Duck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Strategy/FlyBehave.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Strategy/FlyBehave.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Strategy/FlyNoWay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Strategy/FlyNoWay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Strategy/FlyWithFeathers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Strategy/FlyWithFeathers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Strategy/MallardDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Strategy/MallardDuck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Strategy/QuackBehave.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Strategy/QuackBehave.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/StreamChallenge5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/StreamChallenge5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/printLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/printLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StreamChallenge5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamChallenge5.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +44,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WC23W3EKUIOsx8ylgpk7K9JPkg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,10 +56,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.CountVotes">
+  <component name="RunManager" selected="Application.IPv4AddressValidate">
     <configuration name="CountVotes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FileHandling.CountVotes" />
       <module name="Test1" />
@@ -40,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoteControlDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Command.RemoteControlDemo" />
+    <configuration name="IPv4AddressValidate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.IPv4AddressValidate" />
       <module name="Test1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Command.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IPv4AddressValidate" />
+        <item itemvalue="Application.StreamChallenge5" />
+        <item itemvalue="Application.printLL" />
         <item itemvalue="Application.CountVotes" />
         <item itemvalue="Application.VotingMachine" />
-        <item itemvalue="Application.StreamChallenge5" />
-        <item itemvalue="Application.RemoteControlDemo" />
-        <item itemvalue="Application.printLL" />
       </list>
     </recent_temporary>
   </component>
@@ -118,82 +154,71 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578639056166</updated>
+      <workItem from="1596173462939" duration="783000" />
+      <workItem from="1596386960725" duration="6415000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="403" y="123" key="#StreamChallenge5" timestamp="1583389860826">
+    <state x="554" y="347" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1596387052890">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="403" y="123" key="#StreamChallenge5/0.0.1440.900@0.0.1440.900" timestamp="1583389860826" />
-    <state x="466" y="129" key="#com.intellij.ide.util.MemberChooser" timestamp="1580375843497">
+    <state x="554" y="347" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900@0.0.1440.900" timestamp="1596387052890" />
+    <state x="483" y="163" key="#xdebugger.evaluate" timestamp="1596518516867">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="466" y="129" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1580375843497" />
-    <state x="483" y="163" key="#xdebugger.evaluate" timestamp="1583389994915">
+    <state x="483" y="163" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1596518516867" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1596523328667">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="483" y="163" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1583389994915" />
-    <state x="432" y="336" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1581071193387">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596523328667" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1596523328665">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="432" y="336" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.900@0.0.1440.900" timestamp="1581071193387" />
-    <state width="1398" height="269" key="GridCell.Tab.0.bottom" timestamp="1588344768756">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1596523328665" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1596523328665">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="269" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588344768756" />
-    <state width="1398" height="186" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1583389787779" />
-    <state width="1398" height="269" key="GridCell.Tab.0.center" timestamp="1588344768755">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1596523328665" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1596523328666">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="269" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588344768755" />
-    <state width="1398" height="186" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1583389787777" />
-    <state width="1398" height="269" key="GridCell.Tab.0.left" timestamp="1588344768755">
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1596523328666" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1596523299539">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="269" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588344768755" />
-    <state width="1398" height="186" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1583389787776" />
-    <state width="1398" height="269" key="GridCell.Tab.0.right" timestamp="1588344768756">
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596523299539" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1596523299536">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="269" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588344768756" />
-    <state width="1398" height="186" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1583389787778" />
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1587971761151">
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1596523299536" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1596523299535">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587971761151" />
-    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1587971761150">
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1596523299535" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1596523299537">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1587971761150" />
-    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1587971761149">
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1596523299537" />
+    <state x="376" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1596387029306">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="376" y="284" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1596387029306" />
+    <state x="427" y="76" key="refactoring.ChangeSignatureDialog" timestamp="1596526129908">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1587971761149" />
-    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1587971761150">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1587971761150" />
-    <state x="376" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1585824315238">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="376" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1585824315238" />
-    <state x="114" y="23" key="new project wizard" timestamp="1585925054138">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="114" y="23" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1585925054138" />
-    <state x="385" y="112" width="670" height="676" key="search.everywhere.popup" timestamp="1580375886527">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="385" y="112" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1580375886527" />
+    <state x="427" y="76" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1596526129908" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/StreamChallenge5.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="2" />
+          <line>27</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

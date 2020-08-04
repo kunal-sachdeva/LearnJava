@@ -2,43 +2,41 @@ import java.util.*;
 import java.lang.System;
 
 class StreamChallenge5 {
-        public static List<Integer> getRow(int rowIndex) {
-            List<Integer> res = new ArrayList<>();
-            int[][]mem = new int[rowIndex+1][rowIndex];
-            for(int i=0; i<=rowIndex; i++) {
-                Arrays.fill(mem[i], -1);
+    static String removeDuplicate(char str[], int n)
+    {
+        // Used as index in the modified string
+        int index = 0;
+
+        // Traverse through all characters
+        for (int i = 0; i < n; i++)
+        {
+
+            // Check if str[i] is present before it
+            int j;
+            for (j = 0; j < i; j++)
+            {
+                if (str[i] == str[j])
+                {
+                    break;
+                }
             }
-            for(int i=0; i<rowIndex; i++){
-                res.add((Integer) getPascal(i,rowIndex,mem));
+
+            // If not present, then add it to
+            // result.
+            if (j == i)
+            {
+                str[index++] = str[i];
             }
-            return res;
         }
-    public static int getPascal(int ele, int rowIndex, int[][]mem) {
-            if(rowIndex>=0 && ele>=0 && mem[rowIndex][ele]!=-1)
-                return mem[rowIndex][ele];
-            int ans;
-            if(rowIndex==1){
-                if(ele==0)
-                    ans=1;
-                else
-                    return 0;
-            } else if(rowIndex==2){
-                if(ele==0)
-                    ans=1;
-                else if(ele==1)
-                    ans=1;
-                else
-                    return 0;
-            } else {
-                return getPascal(ele - 1, rowIndex - 1, mem) + getPascal(ele, rowIndex - 1, mem);
-            }
-            mem[rowIndex][ele]=ans;
-            return ans;
+        return String.valueOf(Arrays.copyOf(str, index));
     }
-    public static void main(String...args){
-            System.out.println(System.currentTimeMillis());
-            System.out.println(getRow(20));
-            System.out.println(System.currentTimeMillis());
+
+    // Driver code
+    public static void main(String[] args)
+    {
+        char str[] = "geeksforgeeks".toCharArray();
+        int n = str.length;
+        System.out.println(removeDuplicate(str, n));
     }
 
 }
