@@ -2,34 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0e3362a-905b-4191-afba-17ed55e6fa64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/KruskalsMST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/PimsMST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/UndirectedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThread/CallablesThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThread/PrintNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThread/SyncThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Kadane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/KnapSack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/WordBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/Filters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/SortedStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/Streams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/MaximumDiameter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test1/Command/ChannelContoller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Command/ChannelContoller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test1/Command/Command.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Command/Command.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test1/Command/LightController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Command/LightController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test1/Command/RemoteControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Command/RemoteControl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test1/Command/RemoteControlDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Command/RemoteControlDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test1/FileHandling/CountVotes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/FileHandling/CountVotes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test1/FileHandling/VotingMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/FileHandling/VotingMachine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test1/Generics/GenericClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Generics/GenericClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test1/LinkedList/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/LinkedList/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test1/LinkedList/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/LinkedList/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test1/LinkedList/printLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/LinkedList/printLL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test1/Observer/WeatherData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Observer/WeatherData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test1/Serialization/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Serialization/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test1/Serialization/SerializingDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Serialization/SerializingDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test1/Strategy/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Strategy/Duck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test1/Strategy/FlyBehave.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Strategy/FlyBehave.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test1/Strategy/FlyNoWay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Strategy/FlyNoWay.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test1/Strategy/FlyWithFeathers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Strategy/FlyWithFeathers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test1/Strategy/MallardDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Strategy/MallardDuck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test1/Strategy/QuackBehave.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Strategy/QuackBehave.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Practice/IPv4AddressValidate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Practice/IPv4AddressValidate.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Test1/StreamChallenge5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/StreamChallenge5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/printLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/printLL.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StreamChallenge5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamChallenge5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,13 +56,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.IPv4AddressValidate">
-    <configuration name="CountVotes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileHandling.CountVotes" />
+  <component name="RunManager" selected="Application.lruImpl">
+    <configuration name="CallablesThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiThread.CallablesThread" />
       <module name="Test1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FileHandling.*" />
+          <option name="PATTERN" value="MultiThread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IPv4AddressValidate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.IPv4AddressValidate" />
+    <configuration name="SortedStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.SortedStream" />
       <module name="Test1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VotingMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileHandling.VotingMachine" />
+    <configuration name="SyncThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiThread.SyncThreads" />
       <module name="Test1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FileHandling.*" />
+          <option name="PATTERN" value="MultiThread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="printLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.printLL" />
+    <configuration name="lruImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LRU.lruImpl" />
       <module name="Test1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
+          <option name="PATTERN" value="LRU.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IPv4AddressValidate" />
+        <item itemvalue="Application.lruImpl" />
         <item itemvalue="Application.StreamChallenge5" />
-        <item itemvalue="Application.printLL" />
-        <item itemvalue="Application.CountVotes" />
-        <item itemvalue="Application.VotingMachine" />
+        <item itemvalue="Application.SyncThreads" />
+        <item itemvalue="Application.CallablesThread" />
+        <item itemvalue="Application.SortedStream" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +149,14 @@
       <option name="presentableId" value="Default" />
       <updated>1578639056166</updated>
       <workItem from="1596173462939" duration="783000" />
-      <workItem from="1596386960725" duration="6415000" />
+      <workItem from="1596386960725" duration="15558000" />
+      <workItem from="1596709781761" duration="16770000" />
+      <workItem from="1598851124337" duration="200000" />
+      <workItem from="1599541325591" duration="572000" />
+      <workItem from="1600244682827" duration="5326000" />
+      <workItem from="1600873100345" duration="81000" />
+      <workItem from="1601271836378" duration="633000" />
+      <workItem from="1606205878709" duration="3738000" />
     </task>
     <servers />
   </component>
@@ -163,62 +164,84 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="554" y="347" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1596387052890">
+    <state x="533" y="162" key="#com.intellij.ide.util.MemberChooser" timestamp="1600407371114">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="554" y="347" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900@0.0.1440.900" timestamp="1596387052890" />
-    <state x="483" y="163" key="#xdebugger.evaluate" timestamp="1596518516867">
+    <state x="533" y="162" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1600407371114" />
+    <state width="1398" height="101" key="GridCell.Tab.0.bottom" timestamp="1606238767979">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="483" y="163" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1596518516867" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1596523328667">
+    <state width="1398" height="101" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606238767979" />
+    <state width="1398" height="302" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1598592413991" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1597733010988" />
+    <state width="1398" height="101" key="GridCell.Tab.0.center" timestamp="1606238767978">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596523328667" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1596523328665">
+    <state width="1398" height="101" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606238767978" />
+    <state width="1398" height="302" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1598592413990" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1597733010987" />
+    <state width="1398" height="101" key="GridCell.Tab.0.left" timestamp="1606238767977">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1596523328665" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1596523328665">
+    <state width="1398" height="101" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606238767977" />
+    <state width="1398" height="302" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1598592413989" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1597733010986" />
+    <state width="1398" height="101" key="GridCell.Tab.0.right" timestamp="1606238767978">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1596523328665" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1596523328666">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1596523328666" />
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1596523299539">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596523299539" />
-    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1596523299536">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1596523299536" />
-    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1596523299535">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1596523299535" />
-    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1596523299537">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1596523299537" />
-    <state x="376" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1596387029306">
+    <state width="1398" height="101" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606238767978" />
+    <state width="1398" height="302" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1598592413990" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1597733010987" />
+    <state width="1398" height="302" key="GridCell.Tab.1.bottom" timestamp="1598592413994">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state x="376" y="284" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1596387029306" />
-    <state x="427" y="76" key="refactoring.ChangeSignatureDialog" timestamp="1596526129908">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="302" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1597912062989" />
+    <state width="1398" height="302" key="GridCell.Tab.1.bottom/0.23.1440.816@0.23.1440.816" timestamp="1598592413994" />
+    <state width="1398" height="260" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1597732991302" />
+    <state width="1398" height="302" key="GridCell.Tab.1.center" timestamp="1598592413993">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state x="427" y="76" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1596526129908" />
+    <state width="1398" height="302" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1597912062988" />
+    <state width="1398" height="302" key="GridCell.Tab.1.center/0.23.1440.816@0.23.1440.816" timestamp="1598592413993" />
+    <state width="1398" height="260" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1597732991300" />
+    <state width="1398" height="302" key="GridCell.Tab.1.left" timestamp="1598592413992">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="302" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1597912062987" />
+    <state width="1398" height="302" key="GridCell.Tab.1.left/0.23.1440.816@0.23.1440.816" timestamp="1598592413992" />
+    <state width="1398" height="260" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1597732991300" />
+    <state width="1398" height="302" key="GridCell.Tab.1.right" timestamp="1598592413993">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="302" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1597912062988" />
+    <state width="1398" height="302" key="GridCell.Tab.1.right/0.23.1440.816@0.23.1440.816" timestamp="1598592413993" />
+    <state width="1398" height="260" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1597732991301" />
+    <state x="376" y="288" key="com.intellij.ide.util.TipDialog" timestamp="1599547133506">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="376" y="288" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1599547133506" />
+    <state x="385" y="202" width="670" height="618" key="search.everywhere.popup" timestamp="1597732398683">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="385" y="202" width="670" height="618" key="search.everywhere.popup/0.23.1440.822@0.23.1440.822" timestamp="1597732398683" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StreamChallenge5.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="3" />
+          <url>file://$PROJECT_DIR$/src/Tree/BinaryTree.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Practice/KnapSack.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Practice/WordBreak.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

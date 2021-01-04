@@ -1,42 +1,37 @@
+import Practice.Palindrome;
+import com.sun.xml.internal.fastinfoset.algorithm.BooleanEncodingAlgorithm;
+
 import java.util.*;
 import java.lang.System;
-
-class StreamChallenge5 {
-    static String removeDuplicate(char str[], int n)
-    {
-        // Used as index in the modified string
-        int index = 0;
-
-        // Traverse through all characters
-        for (int i = 0; i < n; i++)
-        {
-
-            // Check if str[i] is present before it
-            int j;
-            for (j = 0; j < i; j++)
-            {
-                if (str[i] == str[j])
-                {
-                    break;
-                }
-            }
-
-            // If not present, then add it to
-            // result.
-            if (j == i)
-            {
-                str[index++] = str[i];
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JTextField;
+    public class StreamChallenge5 extends Thread{
+        public void run(){
+            for(int i=1;i<=5;i++){
+                try{
+                    Thread.sleep(500);
+                }catch(Exception e){System.out.println(e);}
+                System.out.println(i);
             }
         }
-        return String.valueOf(Arrays.copyOf(str, index));
-    }
+        public static void main(String args[]){
+            StreamChallenge5 t1=new StreamChallenge5();
+            StreamChallenge5 t2=new StreamChallenge5();
+            StreamChallenge5 t3=new StreamChallenge5();
+            t1.start();
+            try{
+                t1.join();
+                System.out.println("t1 completed");
+            }catch(Exception e){System.out.println(e);}
 
-    // Driver code
-    public static void main(String[] args)
-    {
-        char str[] = "geeksforgeeks".toCharArray();
-        int n = str.length;
-        System.out.println(removeDuplicate(str, n));
-    }
+            t2.start();
+            try {
+                t2.join();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+            t3.start();
+        }
 
-}
+    }
