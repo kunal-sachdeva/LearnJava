@@ -2,33 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0e3362a-905b-4191-afba-17ed55e6fa64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Graph/KruskalsMST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graph/PimsMST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graph/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graph/UndirectedGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiThread/CallablesThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiThread/PrintNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiThread/SyncThreads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/CoinChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Kadane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/KnapSack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/WordBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/Filters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/SortedStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/Streams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/MaximumDiameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritence/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritence/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritence/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PeekingIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Sudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Random/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Random/MinCost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Random/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Random/UndergroundSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackAndQueue/FreqStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackAndQueue/StackImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Utility.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test1/Practice/IPv4AddressValidate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Practice/IPv4AddressValidate.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Test1/StreamChallenge5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/StreamChallenge5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Streams/Filters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Streams/Filters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Streams/SortedStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Streams/SortedStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Streams/Streams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Streams/Streams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Tree/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Tree/Node.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StreamChallenge5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamChallenge5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Streams/Filters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Streams/Filters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Streams/SortedStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Streams/SortedStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Streams/Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Streams/Streams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Node.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -54,24 +71,21 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.lruImpl">
-    <configuration name="CallablesThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiThread.CallablesThread" />
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="StreamChallenge5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamChallenge5" />
       <module name="Test1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MultiThread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Streams.SortedStream" />
+    <configuration name="Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.Streams" />
       <module name="Test1" />
       <extension name="coverage">
         <pattern>
@@ -83,19 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamChallenge5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StreamChallenge5" />
-      <module name="Test1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SyncThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiThread.SyncThreads" />
+    <configuration name="Sudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Sudoku" />
       <module name="Test1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MultiThread.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +110,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lruImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LRU.lruImpl" />
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Random.Test" />
       <module name="Test1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LRU.*" />
+          <option name="PATTERN" value="Random.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritence.Test" />
+      <module name="Test1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inheritence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lruImpl" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Sudoku" />
         <item itemvalue="Application.StreamChallenge5" />
-        <item itemvalue="Application.SyncThreads" />
-        <item itemvalue="Application.CallablesThread" />
-        <item itemvalue="Application.SortedStream" />
+        <item itemvalue="Application.Streams" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +177,38 @@
       <workItem from="1600873100345" duration="81000" />
       <workItem from="1601271836378" duration="633000" />
       <workItem from="1606205878709" duration="3738000" />
+      <workItem from="1609778001922" duration="339000" />
+      <workItem from="1609820374307" duration="516000" />
+      <workItem from="1609906243618" duration="100000" />
+      <workItem from="1610392151406" duration="2236000" />
+      <workItem from="1610426389070" duration="269000" />
+      <workItem from="1610517030742" duration="598000" />
+      <workItem from="1612330286110" duration="598000" />
+      <workItem from="1612529450120" duration="4281000" />
+      <workItem from="1612635027671" duration="366000" />
+      <workItem from="1612762731532" duration="40000" />
+      <workItem from="1612771024185" duration="5818000" />
+      <workItem from="1613123864685" duration="435000" />
+      <workItem from="1613152624763" duration="124000" />
+      <workItem from="1613187869374" duration="1178000" />
+      <workItem from="1613631891557" duration="113000" />
+      <workItem from="1613709614311" duration="4684000" />
+      <workItem from="1613970296748" duration="3480000" />
+      <workItem from="1614149197760" duration="2174000" />
+      <workItem from="1614183529093" duration="128000" />
+      <workItem from="1614232281744" duration="3347000" />
+      <workItem from="1614424369958" duration="175000" />
+      <workItem from="1614582624735" duration="6895000" />
+      <workItem from="1614665537372" duration="1328000" />
+      <workItem from="1614842301410" duration="1474000" />
+      <workItem from="1614928934847" duration="908000" />
+      <workItem from="1615095209584" duration="3397000" />
+      <workItem from="1615181355138" duration="232000" />
+      <workItem from="1615205578793" duration="234000" />
+      <workItem from="1615265065674" duration="170000" />
+      <workItem from="1615797824897" duration="1893000" />
+      <workItem from="1616043722974" duration="18000" />
+      <workItem from="1616323999605" duration="954000" />
     </task>
     <servers />
   </component>
@@ -164,66 +216,95 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="162" key="#com.intellij.ide.util.MemberChooser" timestamp="1600407371114">
+    <state x="320" y="117" key="#Inspections" timestamp="1616392371118">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="162" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1600407371114" />
-    <state width="1398" height="101" key="GridCell.Tab.0.bottom" timestamp="1606238767979">
+    <state x="320" y="117" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1616392371118" />
+    <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612777684037">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="101" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606238767979" />
-    <state width="1398" height="302" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1598592413991" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1597733010988" />
-    <state width="1398" height="101" key="GridCell.Tab.0.center" timestamp="1606238767978">
+    <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1612777684037" />
+    <state x="533" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1615905105465">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="101" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606238767978" />
-    <state width="1398" height="302" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1598592413990" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1597733010987" />
-    <state width="1398" height="101" key="GridCell.Tab.0.left" timestamp="1606238767977">
+    <state x="533" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1615905105465" />
+    <state x="408" y="194" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1613835995528">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="101" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606238767977" />
-    <state width="1398" height="302" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1598592413989" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1597733010986" />
-    <state width="1398" height="101" key="GridCell.Tab.0.right" timestamp="1606238767978">
+    <state x="408" y="194" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1613835995528" />
+    <state x="432" y="118" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1614154053012">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="101" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606238767978" />
-    <state width="1398" height="302" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1598592413990" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1597733010987" />
-    <state width="1398" height="302" key="GridCell.Tab.1.bottom" timestamp="1598592413994">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state x="432" y="118" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1440.900@0.0.1440.900" timestamp="1614154053012" />
+    <state x="458" y="205" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1616324320573">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="302" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1597912062989" />
-    <state width="1398" height="302" key="GridCell.Tab.1.bottom/0.23.1440.816@0.23.1440.816" timestamp="1598592413994" />
-    <state width="1398" height="260" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1597732991302" />
-    <state width="1398" height="302" key="GridCell.Tab.1.center" timestamp="1598592413993">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state x="458" y="205" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1440.900@0.0.1440.900" timestamp="1616324320573" />
+    <state x="483" y="163" key="#xdebugger.evaluate" timestamp="1613981177333">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="302" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1597912062988" />
-    <state width="1398" height="302" key="GridCell.Tab.1.center/0.23.1440.816@0.23.1440.816" timestamp="1598592413993" />
-    <state width="1398" height="260" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1597732991300" />
-    <state width="1398" height="302" key="GridCell.Tab.1.left" timestamp="1598592413992">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state x="483" y="163" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1613981177333" />
+    <state width="1398" height="200" key="GridCell.Tab.0.bottom" timestamp="1615912244159">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="302" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1597912062987" />
-    <state width="1398" height="302" key="GridCell.Tab.1.left/0.23.1440.816@0.23.1440.816" timestamp="1598592413992" />
-    <state width="1398" height="260" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1597732991300" />
-    <state width="1398" height="302" key="GridCell.Tab.1.right" timestamp="1598592413993">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state width="1398" height="200" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1615912244159" />
+    <state width="1398" height="174" key="GridCell.Tab.0.bottom/0.23.1440.824@0.23.1440.824" timestamp="1614236807382" />
+    <state width="1398" height="302" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1614182434230" />
+    <state width="1398" height="200" key="GridCell.Tab.0.center" timestamp="1615912244157">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="302" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1597912062988" />
-    <state width="1398" height="302" key="GridCell.Tab.1.right/0.23.1440.816@0.23.1440.816" timestamp="1598592413993" />
-    <state width="1398" height="260" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1597732991301" />
-    <state x="376" y="288" key="com.intellij.ide.util.TipDialog" timestamp="1599547133506">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state width="1398" height="200" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1615912244157" />
+    <state width="1398" height="174" key="GridCell.Tab.0.center/0.23.1440.824@0.23.1440.824" timestamp="1614236807380" />
+    <state width="1398" height="302" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1614182434229" />
+    <state width="1398" height="200" key="GridCell.Tab.0.left" timestamp="1615912244155">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="376" y="288" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1599547133506" />
-    <state x="385" y="202" width="670" height="618" key="search.everywhere.popup" timestamp="1597732398683">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state width="1398" height="200" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1615912244155" />
+    <state width="1398" height="174" key="GridCell.Tab.0.left/0.23.1440.824@0.23.1440.824" timestamp="1614236807379" />
+    <state width="1398" height="302" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1614182434229" />
+    <state width="1398" height="200" key="GridCell.Tab.0.right" timestamp="1615912244158">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="202" width="670" height="618" key="search.everywhere.popup/0.23.1440.822@0.23.1440.822" timestamp="1597732398683" />
+    <state width="1398" height="200" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1615912244158" />
+    <state width="1398" height="174" key="GridCell.Tab.0.right/0.23.1440.824@0.23.1440.824" timestamp="1614236807380" />
+    <state width="1398" height="302" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1614182434230" />
+    <state width="1398" height="346" key="GridCell.Tab.1.bottom" timestamp="1614587739107">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="346" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1614587739107" />
+    <state width="1398" height="302" key="GridCell.Tab.1.bottom/0.23.1440.825@0.23.1440.825" timestamp="1614182434232" />
+    <state width="1398" height="346" key="GridCell.Tab.1.center" timestamp="1614587739105">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="346" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1614587739105" />
+    <state width="1398" height="302" key="GridCell.Tab.1.center/0.23.1440.825@0.23.1440.825" timestamp="1614182434231" />
+    <state width="1398" height="346" key="GridCell.Tab.1.left" timestamp="1614587739105">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="346" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1614587739105" />
+    <state width="1398" height="302" key="GridCell.Tab.1.left/0.23.1440.825@0.23.1440.825" timestamp="1614182434231" />
+    <state width="1398" height="346" key="GridCell.Tab.1.right" timestamp="1614587739106">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="346" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1614587739106" />
+    <state width="1398" height="302" key="GridCell.Tab.1.right/0.23.1440.825@0.23.1440.825" timestamp="1614182434232" />
+    <state x="208" y="33" key="SettingsEditor" timestamp="1614592623351">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="33" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1614592623351" />
+    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614592030341">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1614592030341" />
+    <state x="392" y="250" key="git4idea.merge.GitPullDialog" timestamp="1609778244958">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="392" y="250" key="git4idea.merge.GitPullDialog/0.0.1440.900@0.0.1440.900" timestamp="1609778244958" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1614592756431">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1614592756431" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.23.1440.824@0.23.1440.824" timestamp="1614592096831" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -242,6 +323,26 @@
           <url>file://$PROJECT_DIR$/src/Practice/WordBreak.java</url>
           <line>14</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StackAndQueue/StackImpl.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PeekingIterator.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StackAndQueue/FreqStack.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StackAndQueue/FreqStack.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

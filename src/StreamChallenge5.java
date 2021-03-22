@@ -1,37 +1,24 @@
-import Practice.Palindrome;
-import com.sun.xml.internal.fastinfoset.algorithm.BooleanEncodingAlgorithm;
+import Tree.Node;
+import javafx.util.Pair;
 
 import java.util.*;
-import java.lang.System;
-import javax.swing.JButton;
-import javax.swing.JFrame;
-import javax.swing.JTextField;
-    public class StreamChallenge5 extends Thread{
-        public void run(){
-            for(int i=1;i<=5;i++){
-                try{
-                    Thread.sleep(500);
-                }catch(Exception e){System.out.println(e);}
-                System.out.println(i);
-            }
-        }
-        public static void main(String args[]){
-            StreamChallenge5 t1=new StreamChallenge5();
-            StreamChallenge5 t2=new StreamChallenge5();
-            StreamChallenge5 t3=new StreamChallenge5();
-            t1.start();
-            try{
-                t1.join();
-                System.out.println("t1 completed");
-            }catch(Exception e){System.out.println(e);}
 
-            t2.start();
-            try {
-                t2.join();
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
-            t3.start();
-        }
+public class StreamChallenge5 extends Thread {
+
+    public static void main(String[] args) {
+        int[] candyType;
+        Deque<Integer> d = new ArrayDeque<>();
+        Queue<Integer> q = new LinkedList<>();
+        StringBuilder s = new StringBuilder();
+        s.append("c"+"#");
+        String[] words={"time","stime","estime"};
+        Arrays.sort(words,(s1,s2)->s2.length()-s1.length());
+        Arrays.stream(words).forEach(System.out::println);
+        String str="";
+        boolean b=true;
+        Boolean b1=new Boolean(true);
+        b1.equals(b);
 
     }
+
+}
