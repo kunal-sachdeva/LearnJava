@@ -12,6 +12,8 @@ public class SyncThreads {
     }
     public static void main(String[] args) {
         ExecutorService executer = Executors.newFixedThreadPool(4);
-        IntStream.range(0, 100).<Runnable>mapToObj(i -> SyncThreads::incrementSync).forEach(executer::submit);
+        IntStream.range(0, 100).<Runnable>mapToObj(i -> {
+            return SyncThreads::incrementSync;
+        }).forEach(executer::submit);
     }
 }

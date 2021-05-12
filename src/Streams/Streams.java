@@ -21,5 +21,12 @@ public class Streams {
         productList.sort(Comparator.comparing(product -> product.getPrice()));
         productList.stream().forEach(System.out::println);
 
+        increasePriceForProductList(productList,2.5);
+        productList.stream().distinct();
+        productList.stream().forEach(System.out::println);
+
+    }
+    private static void increasePriceForProductList(List<? extends Product> products, double inc){
+            products.iterator().forEachRemaining(product->product.setPrice(product.getPrice()+inc));
     }
 }
