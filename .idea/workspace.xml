@@ -2,29 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0e3362a-905b-4191-afba-17ed55e6fa64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Inheritence/AbstractExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritence/InterfaceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Random/EmployeeHierarchy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Random/FlatToHierarchyJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/ConsumerEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Random/Pair.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test1/Inheritence/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Inheritence/Child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test1/Inheritence/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Inheritence/Parent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test1/Inheritence/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Inheritence/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Command/LightController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Command/LightController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/FileHandling/CountVotes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/FileHandling/CountVotes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/FileHandling/VotingMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/FileHandling/VotingMachine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Graph/KruskalsMST$UF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Graph/KruskalsMST$UF.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Graph/KruskalsMST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Graph/KruskalsMST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Graph/PimsMST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Graph/PimsMST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Graph/UndirectedGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Graph/UndirectedGraph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/LinkedList/DoublyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/LinkedList/DoublyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/LinkedList/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/LinkedList/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/META-INF/Test1.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/MultiThread/CallablesThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/MultiThread/CallablesThread.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Test1/MultiThread/SyncThreads.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/MultiThread/SyncThreads.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test1/Random/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Random/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test1/Random/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Random/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Practice/IPv4AddressValidate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Practice/IPv4AddressValidate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Practice/Sudoku.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Practice/Sudoku.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Random/FlatToHierarchyJson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Random/FlatToHierarchyJson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Random/MinCost.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Random/MinCost.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Random/UndergroundSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Random/UndergroundSystem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Serialization/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Serialization/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Serialization/SerializingDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Serialization/SerializingDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/StackAndQueue/FreqStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/StackAndQueue/FreqStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/StackAndQueue/StackImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/StackAndQueue/StackImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Test1/StreamChallenge5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/StreamChallenge5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Streams/ConsumerEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Streams/ConsumerEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Streams/Filters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Streams/Filters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Streams/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Streams/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Streams/SortedStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Streams/SortedStream.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Test1/Streams/Streams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Streams/Streams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritence/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritence/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritence/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritence/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritence/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritence/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MultiThread/SyncThreads.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MultiThread/SyncThreads.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Random/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Random/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Random/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Random/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Tree/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Tree/BinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Tree/MaximumDiameter$Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Tree/MaximumDiameter$Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test1/Tree/MaximumDiameter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test1/Tree/MaximumDiameter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Random/UndergroundSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Random/UndergroundSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StackAndQueue/FreqStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StackAndQueue/FreqStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StreamChallenge5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamChallenge5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Streams/Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Streams/Streams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/BinaryTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,17 +69,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1WC23W3EKUIOsx8ylgpk7K9JPkg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -159,6 +175,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -227,116 +244,23 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="320" y="117" key="#Inspections" timestamp="1616392371118">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="320" y="117" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1616392371118" />
-    <state x="320" y="117" key="#Project_Structure" timestamp="1619698007156">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="320" y="117" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1619698007156" />
-    <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612777684037">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1612777684037" />
-    <state x="533" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1619697329571">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="533" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1619697329571" />
-    <state x="408" y="194" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1613835995528">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="408" y="194" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1613835995528" />
-    <state x="432" y="118" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1614154053012">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="432" y="118" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1440.900@0.0.1440.900" timestamp="1614154053012" />
-    <state x="458" y="205" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1617347413781">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="458" y="205" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1440.900@0.0.1440.900" timestamp="1617347413781" />
-    <state x="483" y="163" key="#xdebugger.evaluate" timestamp="1613981177333">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="483" y="163" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1613981177333" />
-    <state width="1398" height="200" key="GridCell.Tab.0.bottom" timestamp="1620624587394">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="200" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1620624587394" />
-    <state width="1398" height="174" key="GridCell.Tab.0.bottom/0.23.1440.824@0.23.1440.824" timestamp="1614236807382" />
-    <state width="1398" height="302" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1614182434230" />
-    <state width="1398" height="200" key="GridCell.Tab.0.center" timestamp="1620624587392">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="200" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1620624587392" />
-    <state width="1398" height="174" key="GridCell.Tab.0.center/0.23.1440.824@0.23.1440.824" timestamp="1614236807380" />
-    <state width="1398" height="302" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1614182434229" />
-    <state width="1398" height="200" key="GridCell.Tab.0.left" timestamp="1620624587390">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="200" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1620624587390" />
-    <state width="1398" height="174" key="GridCell.Tab.0.left/0.23.1440.824@0.23.1440.824" timestamp="1614236807379" />
-    <state width="1398" height="302" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1614182434229" />
-    <state width="1398" height="200" key="GridCell.Tab.0.right" timestamp="1620624587393">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="200" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1620624587393" />
-    <state width="1398" height="174" key="GridCell.Tab.0.right/0.23.1440.824@0.23.1440.824" timestamp="1614236807380" />
-    <state width="1398" height="302" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1614182434230" />
-    <state width="1398" height="346" key="GridCell.Tab.1.bottom" timestamp="1619880840769">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="346" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619880840769" />
-    <state width="1398" height="302" key="GridCell.Tab.1.bottom/0.23.1440.825@0.23.1440.825" timestamp="1614182434232" />
-    <state width="1398" height="346" key="GridCell.Tab.1.center" timestamp="1619880840767">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="346" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1619880840767" />
-    <state width="1398" height="302" key="GridCell.Tab.1.center/0.23.1440.825@0.23.1440.825" timestamp="1614182434231" />
-    <state width="1398" height="346" key="GridCell.Tab.1.left" timestamp="1619880840766">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="346" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1619880840766" />
-    <state width="1398" height="302" key="GridCell.Tab.1.left/0.23.1440.825@0.23.1440.825" timestamp="1614182434231" />
-    <state width="1398" height="346" key="GridCell.Tab.1.right" timestamp="1619880840768">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="346" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1619880840768" />
-    <state width="1398" height="302" key="GridCell.Tab.1.right/0.23.1440.825@0.23.1440.825" timestamp="1614182434232" />
-    <state x="208" y="33" key="SettingsEditor" timestamp="1614592623351">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="208" y="33" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1614592623351" />
-    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614592030341">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1614592030341" />
-    <state x="97" y="156" key="new project wizard" timestamp="1620037291038">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="97" y="156" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1620037291038" />
-    <state x="482" y="76" key="refactoring.ChangeSignatureDialog" timestamp="1619694579180">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="482" y="76" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1619694579180" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1614592756431">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1614592756431" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.23.1440.824@0.23.1440.824" timestamp="1614592096831" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Tree/BinaryTree.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Practice/KnapSack.java</url>
           <line>4</line>
@@ -356,16 +280,6 @@
           <url>file://$PROJECT_DIR$/src/PeekingIterator.java</url>
           <line>44</line>
           <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StackAndQueue/FreqStack.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StackAndQueue/FreqStack.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Random/Test.java</url>
